@@ -1,0 +1,4 @@
+{
+"url": "/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Debug/net7.0/PostgreSQL.sql",
+"Connection_String":"host=10.0.1.172;port=5432;Database=update_test;User Id=postgres;Password=Masterdev1;sslmode=prefer; Timeout=10;"
+}

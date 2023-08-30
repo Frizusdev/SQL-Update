@@ -1,0 +1,7 @@
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/SQLUpdate.pdb
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/comerr64.dll
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/gssapi64.dll
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/k5sprt64.dll
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/krb5_64.dll
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/krbcc64.dll
+/Users/blazej/Projects/SQLUpdate/SQLUpdate/bin/Release/net7.0/win-x64/publish/SQLUpdate.exe
